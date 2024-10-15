@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CP2 - Mobile</string>
+    <string name="textFormularioView">FORM</string>
+    <string name="btnEnviar">Submit</string>
+    <string name="textName">name</string>
+    <string name="textEmail">email</string>
+    <string name="spinnerPais">country</string>
+    <string name="btnVoltar">Back</string>
+    <string name="btnAvancar">Next</string>
+    <string name="textView">FILLED DATA</string>
+    <string name="textView2">OUR DESTINATIONS</string>
+</resources>

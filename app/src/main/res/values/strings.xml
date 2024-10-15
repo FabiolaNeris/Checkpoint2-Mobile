@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CP2 - Mobile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="textFormularioView">FORMULÁRIO</string>
+    <string name="btnEnviar">Enviar</string>
+    <string name="textName">nome</string>
+    <string name="textEmail">email</string>
+    <string name="spinnerPais">país</string>
+    <string name="btnVoltar">Voltar</string>
+    <string name="btnAvancar">Avançar</string>
+    <string name="textView">DADOS PREENCHIDOS</string>
+    <string name="textView2">NOSSOS DESTINOS</string>
+</resources>
