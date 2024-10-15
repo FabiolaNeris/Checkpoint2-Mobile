@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">CP2 - Mobile</string>
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="textFormularioView">FORMULÁRIO</string>
     <string name="btnEnviar">Enviar</string>
     <string name="textName">nome</string>
